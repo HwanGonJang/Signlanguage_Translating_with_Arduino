@@ -3,11 +3,11 @@
 
 ## 개요
 숭실대학교 아두이노 공모전 출품을 위해 제작한 청각장애인을 위한 수화번역기.    
-아두이노와 구부림센서를 활용하여 수화를 번역하여 LCD패널로 출력해준다.
+아두이노와 구부림센서, 를 활용하여 수화를 번역하여 LCD패널로 출력해준다.
 ### 구부림 센서
 <img widh="500" src="https://user-images.githubusercontent.com/33739448/102565767-781fac80-4121-11eb-9ff2-e6a0de88372f.jpg">
 
-## 
+## 회로
 <img width="500" src="https://user-images.githubusercontent.com/33739448/102565212-5245d800-4120-11eb-8d15-9bfffeb47fcb.png">
 
 ## 코드 
@@ -155,6 +155,7 @@
     }
     
 ## 완성
+손가락의 구부림, 자이로 센서를 활용한 손의 모양과 위치 등 총 9가지 변수로 수많은 경우의 수에 대해 수화 번역을 하여 LCD패널에 출력해준다.
 <img width="500" src=https://user-images.githubusercontent.com/33739448/102565518-f4fe5680-4120-11eb-8732-ce4bd5439dfb.jpg>
 
     
