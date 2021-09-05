@@ -16,10 +16,12 @@
 <img src='https://github.com/HwanGonJang/HwanGonJang.github.io/blob/master/Pictures/as_1.jpg?raw=true'>
 
 2. 자이로 센서
-<img src='https://github.com/HwanGonJang/HwanGonJang.github.io/blob/master/Pictures/as_2.jpg?raw=true'>
+
+<img src='https://github.com/HwanGonJang/HwanGonJang.github.io/blob/master/Pictures/as_3.jpg?raw=true'>
 
 3. lcd 모듈
-<img src='https://github.com/HwanGonJang/HwanGonJang.github.io/blob/master/Pictures/as_3.jpg?raw=true'>
+
+<img src='https://github.com/HwanGonJang/HwanGonJang.github.io/blob/master/Pictures/as_2.jpg?raw=true'>
 
 
 ### 2. 회로 작성
